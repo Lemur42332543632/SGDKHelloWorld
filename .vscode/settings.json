@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "resources.h": "c",
+        "genesis.h": "c",
+        "chrono": "c",
+        "types.h": "c"
+    }
+}
