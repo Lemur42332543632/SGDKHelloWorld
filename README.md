@@ -1,1 +1,1 @@
-# SegaGenesisHelloWorld
+# SGDK and Mars toolchain HelloWorld
